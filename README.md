@@ -18,7 +18,7 @@
 - [Introduction](#introduction) <br>
 - [Requirements](#requirements) <br>
 - [How to use](#How-to-use) <br>
-- [Preview](#previews)
+- [Preview](#preview)
 - [Contribution](#contribution)
 
   
@@ -84,7 +84,9 @@ git clone https://github.com/AAC-Open-Source-Pool/WildHaven
  -->
 
 
-<h2>Preview</h2>
+<!--<h2>Preview</h2>-->
+## Preview
+
 <p>Login-Register Page </p>
 <img src ="https://i.imgur.com/xrm5CmK_d.webp?maxwidth=760&fidelity=grand" width = "250px" height = "500px">
 
