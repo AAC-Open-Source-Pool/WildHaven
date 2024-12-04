@@ -1,5 +1,7 @@
 # WildHaven
-
+<div align="left" >
+  <img src="https://i.imgur.com/IrEbutC_d.webp?maxwidth=760&fidelity=grand" width="300px" height = "300px">
+</div>
 <h2>Team Details</h2>
 <b>Team Number: </b><p>24AACR05</p>
 <b>Senior Mentor:</b><p> Akshaya</p>
@@ -10,9 +12,7 @@
 <b>Team Member 4:</b><p>Sridhanvi Boggarapu </p>
 <b>Team Member 5:</b><p> Nenavath Tarun Rathod </p>
 
-<div align="center">
-  <img src="">
-</div>
+
 
 ## Table of Contents
 - [Introduction](#introduction) <br>
@@ -67,15 +67,17 @@ webview_flutter_wkwebview	2.9.5 <br />
 <h2>How-to-use</h2>
 <p>You can clone the repository by executing this command in the gitbash environment in the required directory </p>
 
-  terminal
-  git clone https://github.com/AAC-Open-Source-Pool/WildHaven
+```terminal
+git clone https://github.com/AAC-Open-Source-Pool/WildHaven
+```
   
 <p> Make sure the paths are configured properly <br>
   Open the terminal in the required directory and execute the following command
 </p>
 
-  terminal
+  ```terminal
    flask run
+```
   
   
 <!-- <p>Wait for the development server to deploy and open  <a href="http://127.0.0.1:5000">Local Host</a></p> 
@@ -83,3 +85,20 @@ webview_flutter_wkwebview	2.9.5 <br />
 
 
 <h2>Preview</h2>
+<p>Login-Register Page </p>
+<img src ="https://i.imgur.com/xrm5CmK_d.webp?maxwidth=760&fidelity=grand" width = "250px" height = "500px">
+
+## Contribution
+We welcome contributions to Mixmuse! To contribute, follow these steps:
+
+1.⁠ ⁠Understand the Project Philosophy:
+Read through the README.md file to familiarize yourself with the project's goals and structure.
+
+2.⁠ ⁠Maintain Code Consistency:
+Use the same programming language and library versions as the original code.
+
+3.⁠ ⁠Write Documentation:
+Explain the changes you're proposing, including identified problems, proposed solutions, and test cases.
+
+4.⁠ ⁠Submit a Pull Request:
+Follow standard Git etiquette for submitting your contributions.
