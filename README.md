@@ -91,7 +91,7 @@ git clone https://github.com/AAC-Open-Source-Pool/WildHaven
 <img src ="https://i.imgur.com/xrm5CmK_d.webp?maxwidth=760&fidelity=grand" width = "250px" height = "500px">
 
 ## Contribution
-We welcome contributions to Mixmuse! To contribute, follow these steps:
+We welcome contributions to WildHaven! To contribute, follow these steps:
 
 1.⁠ ⁠Understand the Project Philosophy:
 Read through the README.md file to familiarize yourself with the project's goals and structure.
